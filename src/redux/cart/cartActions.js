@@ -1,4 +1,4 @@
-import { GET_ALL_PRODUCTS, ADD_CART, INCREASE_QUANTITY, DECREASE_QUANTITY, DELETE_CART } from './cartTypes'
+/* import { GET_ALL_PRODUCTS, ADD_CART, INCREASE_QUANTITY, DECREASE_QUANTITY, DELETE_CART } from './cartTypes'
 
 
 export const getAllProducts = (products) => {
@@ -38,3 +38,4 @@ export const deleteCart = (i) => {
 
 
 
+ */

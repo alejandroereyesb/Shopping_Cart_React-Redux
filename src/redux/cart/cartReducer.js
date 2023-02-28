@@ -1,4 +1,4 @@
-import { GET_ALL_PRODUCTS, ADD_CART, INCREASE_QUANTITY, DECREASE_QUANTITY, DELETE_CART } from './cartTypes'
+/* import { GET_ALL_PRODUCTS, ADD_CART, INCREASE_QUANTITY, DECREASE_QUANTITY, DELETE_CART } from './cartTypes'
 
 const INITIAL_STATE = {
     numberItems: 0,
@@ -94,4 +94,4 @@ function cartReducer(state = INITIAL_STATE, action) {
     }
 }
 
-export default cartReducer;
+export default cartReducer; */
